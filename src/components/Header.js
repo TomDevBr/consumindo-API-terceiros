@@ -11,7 +11,7 @@ export const Header = () => {
       <>
         <nav className="navbar navbar-expand-sm  navbar-light header ">
           <a className="navbar-brand" href="/#">
-            <img src={logo} alt="logo" />
+            <h1>logo</h1>
           </a>
           <button
             className="navbar-toggler"
