@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../assets/logo.svg'
 import configIcon from '../assets/configIcon.svg'
 import gaiaIcon from '../assets/gaiaIcon.svg'
 import userIcon from '../assets/userIcon.svg'
