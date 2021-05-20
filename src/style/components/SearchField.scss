@@ -1,0 +1,40 @@
+
+.submit-line {
+    position: relative;
+    width: 200px;
+    color: #CCCCCC;
+    margin-right: 1rem;
+
+    ::-webkit-input-placeholder {
+        color: #CCCCCC;
+    }
+
+     input {
+        width: 100%;
+        color: #CCCCCC;
+        border: 1px solid #CCCCCC;
+        border-radius: 20px;
+        outline: none;
+        margin: 0 auto;
+        text-align: center;
+        padding: 0.2rem;
+        
+    }
+
+    .submit-lente {
+        position: absolute;
+        top: 0;
+        right: 0;
+        z-index: 10;
+        border: none;
+        background: transparent;
+        outline: none;
+        color: #CCCCCC;
+        margin-right: 5px;
+        padding: 0.2rem;
+    }
+
+   
+
+}
+
